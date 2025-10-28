@@ -2,3 +2,28 @@ body{
     background-color: rgb(0, 255, 179);
     color: rgb(0, 102, 255);
 }
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+            }     
+    .LeftAlign{
+        flex: 0 0 auto;
+        color: rgb(200, 0, 255);
+        box-sizing: Border-box;
+        border: 5px solid blue;
+    }
+    .CenterAlign{
+        flex: 0 0 auto;
+        color: rgb(255, 0, 144)
+        text-align justify;
+        box-sizing: border-box;
+        border: 5px solid  blue;
+    }
+    .RightAlign{
+        flex: 0 0 auto;
+        corlor: rgb(255, 98, 0);
+        text-align:justify;
+        box-sizing: border-box;
+        border: 5px solid blue;
+    }
