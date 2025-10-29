@@ -15,14 +15,14 @@ body{
     }   
 
     .LeftAlign{
-    background-color: rgb(148, 74, 13);
-    border: 3px solid rgb(152, 126, 39);
+    background-color: red;
+    border: 3px solid green;
     }
     .CenterAlign{
-        background-color: rgb(111, 139, 36);
-        border: 3px solid rgb(48, 140, 116);
+        background-color: green;
+        border: 3px solid blue;
     }
     .RightAlign{
-        background-color: rgb(78, 48, 131);
-        border: 3px solid rgb(124, 43, 134)
+        background-color: blue;
+        border: 3px solid red;
     }
